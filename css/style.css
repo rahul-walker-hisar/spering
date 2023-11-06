@@ -749,7 +749,7 @@ a:focus {
 }
 
 .info_section .info_form form button:hover {
-  background-color: transparent;
+  background-color: green;
   border-color: #ff4f5a;
   color: #ff4f5a;
 }
